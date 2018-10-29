@@ -1,0 +1,16 @@
+{
+  "tableData2" :[{
+    "item" : "theme",
+    "contents" : "검사내전"
+  },{
+    "item" : "author",
+    "contents" : "김웅"
+  }, {
+    "item" : "genre",
+    "contents" : "Social"
+  }, {
+    "item" : "price",
+    "contents" : "13500 원"
+  }
+  ]
+}

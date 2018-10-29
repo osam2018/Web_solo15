@@ -1,0 +1,15 @@
+{
+  "tableData": [{
+    "policy": "1",
+    "explanation": " ~ 20000원"
+  }, {
+    "policy": "2",
+    "explanation": "~ 50000원"
+  }, {
+    "policy": "3",
+    "explanation": "~ 100000원"
+  }, {
+    "policy": "4",
+    "explanation": "~ 200000원"
+  }]
+}

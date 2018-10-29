@@ -1,0 +1,15 @@
+{
+  "tableData": [{
+    "policy": "1",
+    "explanation": "1 day"
+  }, {
+    "policy": "2",
+    "explanation": "1 week"
+  }, {
+    "policy": "3",
+    "explanation": "1 month"
+  }, {
+    "policy": "4",
+    "explanation": "1 year"
+  }]
+}

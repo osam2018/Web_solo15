@@ -1,0 +1,15 @@
+{
+  "tableData2" :[{
+    "item" : "theme",
+    "contents" : "돌이킬 수 없는 약속"
+  },{
+    "item" : "author",
+    "contents" : "아쿠마루 가쿠"
+  }, {
+    "item" : "genre",
+    "contents" : "Fcition"
+  }, {
+    "item" : "price",
+    "contents" : "13500 원"
+  }]
+}

@@ -1,0 +1,74 @@
+{
+  rank : '1',
+  name: '돌이킬 수 없는 약속'
+}, {
+rank: '2',
+name: '82년생 김지영'
+}, {
+rank: '3',
+name: '인생 우화'
+}, {
+rank: '4',
+name: '나미야 잡화점의 기적'
+}, {
+rank: '5',
+name: '작별'
+}, {
+rank: '6',
+name: '살인의 문'
+}, {
+rank: '7',
+name: '꾸뻬 씨의 핑크색 안경'
+}, {
+rank: '8',
+name: '제0호'
+}, {
+rank: '9',
+name: '살인의 문'
+}, {
+rank: '10',
+name: '참을 수 없는 존재의 가벼움'
+}, {
+rank: '11',
+name: '매스커레이드 나이트'
+}, {
+rank: '12',
+name: '오직 두 사람'
+}, {
+rank: '13',
+name: '아몬드'
+}, {
+rank: '14',
+name: '내게 무해한 사람'
+}, {
+rank: '15',
+name: '디즈니의 악당들. 1: 사악한 여왕'
+}, {
+rank: '16',
+name: '내 이름은 빨강. 1(모던 클래식 1)'
+}, {
+rank: '17',
+name: '왜 나는 너를 사랑하는가'
+}, {
+rank: '18',
+name: '쇼코의 미소'
+}, {
+rank: '19',
+name: '미스터 선샤인. 2'
+}, {
+rank: '20',
+name: '내 이름은 빨강 .2'
+}],
+tableData2 :[{
+item : 'theme',
+contents : '돌이킬 수 없는 약속'
+},{
+item : 'author',
+contents : '아쿠마루 가쿠'
+}, {
+item : 'genre',
+contents : 'Fcition'
+}, {
+item : 'price',
+contents : '13500 원'
+}
